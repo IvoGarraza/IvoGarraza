@@ -1,5 +1,10 @@
 ## Hi, I'm Ivo 👋
-📍Córdoba, Argentina | Developer 
+📍Córdoba, Argentina | Developer
+
+# Currently Projects
+🐕[Gooster](https://github.com/IvoGarraza/gooster) - Website for a balanced food company
+💻[Portfolio](https://ivogarraza.onrender.com/) - Personal portfolio
+
 <!--
 **IvoGarraza/IvoGarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
