@@ -4,6 +4,8 @@
 # Currently Projects
 🐕[Gooster](https://github.com/IvoGarraza/gooster) - Website for a balanced food company <br>
 💻[Portfolio](https://ivogarraza.onrender.com/) - Personal portfolio <br>
+🚀[Digital Makers](https://digitalmakers.tech/) - Website for a company software <br>
+🛸[Rick and Morty](https://github.com/IvoGarraza/Rick-and-Morty-Web) - App Web for Rick and Morty API
 
 <!--
 **IvoGarraza/IvoGarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
