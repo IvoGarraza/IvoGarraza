@@ -1,6 +1,6 @@
 ## Hi, I'm Ivo 👋
-📍Córdoba, Argentina | Developer
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)][![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)][![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)][![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)][![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)][![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)][![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)][![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)]
+📍Córdoba, Argentina | Developer <br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)][![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)][![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)][![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)][![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)][![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)][![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)]
 # Currently Projects
 🐕[Gooster](https://github.com/IvoGarraza/gooster) - Website for a balanced food company <br>
 💻[Portfolio](https://ivogarraza.onrender.com/) - Personal portfolio <br>
