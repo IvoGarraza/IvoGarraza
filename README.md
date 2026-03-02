@@ -1,10 +1,7 @@
 ## Hi, I'm Ivo 👋
 📍Córdoba, Argentina | Developer
 
-<div>
-<img> alt="Static Badge" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=white">
-</div>
-
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/ivogarraza/))
 # Currently Projects
 🐕[Gooster](https://github.com/IvoGarraza/gooster) - Website for a balanced food company <br>
 💻[Portfolio](https://ivogarraza.onrender.com/) - Personal portfolio <br>
